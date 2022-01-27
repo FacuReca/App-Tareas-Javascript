@@ -49,7 +49,7 @@ function getTasks() {
 		`<div class="card  mb-3">
 		   <div class="car-body">
 		     <p>${title} - ${description}</p>
-		     <a class="btn  btn-danger" onclick="delTasks('${title}')">Delete</a>
+		     <a class="btn  btn-danger" onclick="delTasks('${title}')">Borrar</a>
 		   </div>  
 		</div>`
 	}
